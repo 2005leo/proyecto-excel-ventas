@@ -19,9 +19,9 @@ Columnas: fecha, canal, región/ciudad, categoría, producto, unidades, precio, 
 
 ## Capturas
 ![Overview](images/Captura de pantalla 2025-10-16 201113.png)
-![Ventas por Mes](Captura de pantalla 2025-10-16 201151.png)
-![Top Productos](Captura de pantalla 2025-10-16 201314.png)
-![Canal × Segmento](Captura de pantalla 2025-10-16 201400.png)
+![Ventas por Mes](images/Captura de pantalla 2025-10-16 201151.png)
+![Top Productos](images/Captura de pantalla 2025-10-16 201314.png)
+![Canal × Segmento](images/Captura de pantalla 2025-10-16 201400.png)
 
 ## Entregables
 - [`/data/proyecto1_ventas_retail.csv`](data/proyecto1_ventas_retail.csv)
