@@ -18,10 +18,10 @@ Columnas: fecha, canal, región/ciudad, categoría, producto, unidades, precio, 
 - KPIs: Revenue, Orders únicos, Units, Avg Ticket, Margin %
 
 ## Capturas
-![Overview](images/dashboard_overview.png)
-![Ventas por Mes](images/ventas_por_mes.png)
-![Top Productos](images/top_productos.png)
-![Canal × Segmento](images/canal_segmento.png)
+![Overview](images/Captura de pantalla 2025-10-16 201113.png)
+![Ventas por Mes](Captura de pantalla 2025-10-16 201151.png)
+![Top Productos](Captura de pantalla 2025-10-16 201314.png)
+![Canal × Segmento](Captura de pantalla 2025-10-16 201400.png)
 
 ## Entregables
 - [`/data/proyecto1_ventas_retail.csv`](data/proyecto1_ventas_retail.csv)
