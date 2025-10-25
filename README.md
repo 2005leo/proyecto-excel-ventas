@@ -18,12 +18,14 @@ Columnas: fecha, canal, región/ciudad, categoría, producto, unidades, precio, 
 - KPIs: Revenue, Orders únicos, Units, Avg Ticket, Margin %
 
 ## Capturas
-![Overview](images/Captura1.png)
-![Ventas por Mes](images/Captura2.png)
-![Top Productos](images/Captura3.png)
-![Canal × Segmento](images/Captura4.png)
+![Overview](images/Overview.png)
+![Ventas por Mes](images/Ventas_Mes.png)
+![Top Productos](images/Top_productos.png)
+![Canal × Segmento](images/Revenue_Canal_Segmento.png)
 
 ## Entregables
 - [`/data/proyecto1_ventas_retail.csv`](data/proyecto1_ventas_retail.csv)
 - [`/excel/proyecto1_excel_ventas.xlsx`](excel/proyecto1_excel_ventas.xlsx)
-- `/images/*.png`
+- Imágenes: `overview.png`, `ventas_mes.png`, `top_productos.png`, `revenue_canal_segmento.png` (ubicadas en `/images/`)
+
+
